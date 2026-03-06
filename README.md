@@ -20,7 +20,6 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
-![SCSS](https://img.shields.io/badge/SCSS-pink?style=for-the-badge\&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge\&logo=bootstrap)
 ![Vue.js](https://img.shields.io/badge/Vue.js-green?style=for-the-badge\&logo=vue.js)
 
@@ -45,23 +44,9 @@
 
 ---
 
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VietNDQ\&layout=compact\&theme=tokyonight)
-
----
-
 ## 📈 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=VietNDQ\&theme=tokyonight)
-
----
-
-## 🚀 Featured Projects
-
-* 🛒 **Web Shop Clothes**
-* ❤️ **Real Love Website**
-* 🧠 **Backend API Projects**
 
 ---
 
